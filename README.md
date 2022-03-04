@@ -1,3 +1,1 @@
-# Optimization Methods
-
-Tareas Optimización
+# Optimal Control
